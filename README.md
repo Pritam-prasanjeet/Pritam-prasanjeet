@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Pritam-prasanjeet
-- 🌱 I’m currently learning Android Developement using Flutter. Backend Developement using Node.js, Express.js, Next.js, MongoDb.
+- Backend Developement using Node.js, Express.js, Next.js, MongoDb.
+- I’m currently learning Android Developement using Flutter. 
